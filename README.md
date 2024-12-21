@@ -53,7 +53,7 @@ The final improvement to the Linear Regression model explored was implementing f
 
 ## Project File Structure
 This project is organized into the following structure\
-root/\                  
+root/                 
 ├── Graphs/        &ensp; &ensp; &ensp; &ensp;#Contains final results and model related visualizations\
 │\
 ├── CleaningPreprocessingEDA/      &ensp; &ensp; &ensp; &ensp;#Contains all cleaning and preprocessing code            
@@ -61,4 +61,6 @@ root/\
 ├── Visualizations.ipynb     &ensp; &ensp; &ensp; &ensp;#Contanins code and output for EDA graphs\
 ├── README.md         
 └── FinalReport.pdf         &ensp; &ensp; &ensp; &ensp;#Finals written project report
+
+Note: Original and cleaned datasets have not been included due to file sizes
 

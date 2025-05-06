@@ -1,3 +1,8 @@
+##Contributors:
+- Charlotte Hauke
+- Sierra Reshke
+- Quinn Turner
+
 # Effects of Wildfires on Unemployment
 
 ## Introduction

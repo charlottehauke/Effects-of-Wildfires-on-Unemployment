@@ -1,4 +1,4 @@
-##Contributors:
+## Contributors:
 - Charlotte Hauke
 - Sierra Reshke
 - Quinn Turner

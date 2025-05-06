@@ -1,9 +1,9 @@
+# Effects of Wildfires on Unemployment
+
 ## Contributors:
 - Charlotte Hauke
 - Sierra Reshke
 - Quinn Turner
-
-# Effects of Wildfires on Unemployment
 
 ## Introduction
 In several studies, it has been shown that wildfires have a significant impact on local economies and various socioeconomic factors. We hypothesized that larger fires would have a negative impact on unemployment rates in the counties they occurred in, which is supported by previous research. We analyzed this relationship by utilizing several advanced data mining techniques. After experimenting with the inclusion and exclusion of wildfire data in the creation of a model, we concluded that wildfires have a negligible impact on the prediction of unemployment rates on a local level.
